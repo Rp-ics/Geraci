@@ -41,7 +41,7 @@ No external dependencies required.
     Core.read_file("file_name.txt")
 
     EXAMPLE 2
-    from geraci.core import rename_file
+    from geraci.Core import rename_file
 
     rename_file("old_name.txt", "new_name.csv")
      

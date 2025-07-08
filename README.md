@@ -34,14 +34,14 @@ No external dependencies required.
  
 📋 How to Use 
 
-    EXAMPLE 1
+    #EXAMPLE 1
 
-    from geraci import Core
+    from geraci import core
 
-    Core.read_file("file_name.txt")
+    core.read_file("file_name.txt")
 
-    EXAMPLE 2
-    from geraci.Core import rename_file
+    #EXAMPLE 2
+    from geraci.core import rename_file
 
     rename_file("old_name.txt", "new_name.csv")
      
